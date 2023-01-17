@@ -1,8 +1,9 @@
 public class swap {
 
+   static int x = 20;
+   static int y = 5;
+
    public static void main(String[] args) {
-      int x = 20;
-      int y = 5;
 
       System.out.println("The value for x is " + x);
       System.out.println("The value for y is " + y);
@@ -15,5 +16,4 @@ public class swap {
       System.out.println("The value for y is " + y);
 
    }
-
 }
