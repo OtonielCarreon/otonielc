@@ -15,6 +15,8 @@ public class swap {
       System.out.println("The value for x is " + x);
       System.out.println("The value for y is " + y);
 
+      printID();
+
    }
 
    public static void printID() {
